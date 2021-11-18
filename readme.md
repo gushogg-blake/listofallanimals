@@ -11,7 +11,7 @@ To add an animal(s) to the list, submit a pull request to this repository adding
 - Commit messages can be whatever you want, including advertising for your product/service
 - At most 20 new animals can be submitted in each PR
 
-For the purposes of this list, an animal is something you can see and point at, and that has a common name.  Invisibile or otherwise obscure animals may be rejected.
+For the purposes of this list, an animal is something you can see and point at, and that has a common name.  Invisible or otherwise obscure animals may be rejected.
 
 ### Naming guidelines
 
